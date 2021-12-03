@@ -1,4 +1,5 @@
 // Day 2 - #2
+import { data } from "./data";
 const dataArray = data.split(/\r?\n/).map( m => m.split(' '));
 let aim = 0;
 let horizontalPos = 0;

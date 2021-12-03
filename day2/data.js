@@ -1,4 +1,4 @@
-const data = `forward 1
+export const data = `forward 1
 forward 2
 down 5
 down 5

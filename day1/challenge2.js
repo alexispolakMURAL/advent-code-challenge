@@ -1,3 +1,5 @@
+
+import { data } from "./data";
 const sum = (array, index) => {
     return array[index] + array[index-1] + array[index-2]; 
   };

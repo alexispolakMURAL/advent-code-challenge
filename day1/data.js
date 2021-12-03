@@ -1,4 +1,4 @@
-const data = `151
+export const data = `151
 150
 148
 147

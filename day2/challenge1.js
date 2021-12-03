@@ -1,4 +1,5 @@
 // Day 2 - #1
+import { data } from "./data";
 const dataArray = data.split(/\r?\n/).map( m => m.split(' '));
 let dataMap = new Map();
 for(let i =0; i<dataArray.length; i++) {
